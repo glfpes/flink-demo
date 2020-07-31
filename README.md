@@ -9,4 +9,5 @@
 ## 2. `com.glfpes.classic` 经典算法
 | **类名** | **说明** |
 | --- | --- |
-| `ClassicBinarySearch` | 二分查找 |
+| `BinarySearch` | 二分查找 |
+| `QuickSort` | 快速排序 |
